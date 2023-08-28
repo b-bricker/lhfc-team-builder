@@ -1,4 +1,4 @@
-# LHFC Team Builder
+# HLFC Team Builder
 
 This script can be used to build soccer teams across multiple age divisions keeping an even distribution of age and gender for each team.
 
